@@ -1,0 +1,13 @@
+{
+    "SEED": 2020,
+    "NPRIME": "representative-sample",
+    "representative-sample-size": 10,
+    "GPT-3-params": {
+        "engine": "davinci",
+        "temperature": 0, 
+        "max_tokens": 20,
+        "top_p": 1,
+        "stop": ["<|endoftext|>", "\n"], 
+        "logprobs": 1
+    }
+}
