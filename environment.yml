@@ -1,0 +1,6 @@
+name: gpt3_eval
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+prefix: /n/home13/rtuwani/.conda/envs/gpt3_eval

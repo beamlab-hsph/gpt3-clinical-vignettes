@@ -40,7 +40,7 @@ Triage: Self-care
 ###
 Vignette: Confused and sleepy for several hours.
 Additional Details: 48-year-old female; Can't answer where she is or what her name is (but she normally can); Takes Tylenol all the time for migraine, but recently took more.
-Triage:"	Confused and sleepy for several hours.	48-year-old female; Can't answer where she is or what her name is (but she normally can); Takes Tylenol all the time for migraine, but recently took more.	Emergent	1-day	-0.9131318399999999
+Triage:"	Confused and sleepy for several hours.	48-year-old female; Can't answer where she is or what her name is (but she normally can); Takes Tylenol all the time for migraine, but recently took more.	Emergent	1-day	-0.91313184
 1	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Sudden severe abdominal pain.
@@ -82,7 +82,7 @@ Triage: Self-care
 ###
 Vignette: Confused and sleepy for several hours.
 Additional Details: 48-year-old female; Can't answer where she is or what her name is (but she normally can); Takes Tylenol all the time for migraine, but recently took more.
-Triage:"	Confused and sleepy for several hours.	48-year-old female; Can't answer where she is or what her name is (but she normally can); Takes Tylenol all the time for migraine, but recently took more.	Emergent	1-day	-0.9504265678999999
+Triage:"	Confused and sleepy for several hours.	48-year-old female; Can't answer where she is or what her name is (but she normally can); Takes Tylenol all the time for migraine, but recently took more.	Emergent	1-day	-0.9504265679
 1	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Left-sided pain between armpit and hip for 1 hour.
@@ -229,7 +229,7 @@ Triage: Self-care
 ###
 Vignette: Sudden severe abdominal pain.
 Additional Details: 12-year-old female; Temperature 104 F (40 C); Has nausea, vomiting, and diarrhea.
-Triage:"	Sudden severe abdominal pain.	12-year-old female; Temperature 104 F (40 C); Has nausea, vomiting, and diarrhea.	Emergent	1-day	-1.0627174535000001
+Triage:"	Sudden severe abdominal pain.	12-year-old female; Temperature 104 F (40 C); Has nausea, vomiting, and diarrhea.	Emergent	1-day	-1.0627174535
 2	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Confused and sleepy for several hours.
@@ -481,7 +481,7 @@ Triage: Self-care
 ###
 Vignette: Chest pain for 1 day.
 Additional Details: 64-year-old male; Pain is in middle of chest under breast bone; Sweating and having trouble breathing.
-Triage:"	Chest pain for 1 day.	64-year-old male; Pain is in middle of chest under breast bone; Sweating and having trouble breathing.	Emergent	1-day	-0.48881220960000005
+Triage:"	Chest pain for 1 day.	64-year-old male; Pain is in middle of chest under breast bone; Sweating and having trouble breathing.	Emergent	1-day	-0.4888122096
 3	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Fever and rash for 2 days.
@@ -502,7 +502,7 @@ Triage: Self-care
 ###
 Vignette: Chest pain for 1 day.
 Additional Details: 64-year-old male; Pain is in middle of chest under breast bone; Sweating and having trouble breathing.
-Triage:"	Chest pain for 1 day.	64-year-old male; Pain is in middle of chest under breast bone; Sweating and having trouble breathing.	Emergent	1-day	-1.2669111713999999
+Triage:"	Chest pain for 1 day.	64-year-old male; Pain is in middle of chest under breast bone; Sweating and having trouble breathing.	Emergent	1-day	-1.2669111714
 3	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Painful muscle spasms for 1 day.
@@ -586,7 +586,7 @@ Triage: Self-care
 ###
 Vignette: Chest pain for 1 day.
 Additional Details: 64-year-old male; Pain is in middle of chest under breast bone; Sweating and having trouble breathing.
-Triage:"	Chest pain for 1 day.	64-year-old male; Pain is in middle of chest under breast bone; Sweating and having trouble breathing.	Emergent	1-day	-0.9247330196000001
+Triage:"	Chest pain for 1 day.	64-year-old male; Pain is in middle of chest under breast bone; Sweating and having trouble breathing.	Emergent	1-day	-0.9247330196
 3	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Trouble breathing for 3 days.
@@ -649,7 +649,7 @@ Triage: Self-care
 ###
 Vignette: Left-sided pain between armpit and hip for 1 hour.
 Additional Details: 45-year-old male; Severe pain; Pain starts on left side and travels to groin; Has nausea and vomiting; Squirming in pain.
-Triage:"	Left-sided pain between armpit and hip for 1 hour.	45-year-old male; Severe pain; Pain starts on left side and travels to groin; Has nausea and vomiting; Squirming in pain.	Emergent	1-day	-0.9439898173000001
+Triage:"	Left-sided pain between armpit and hip for 1 hour.	45-year-old male; Severe pain; Pain starts on left side and travels to groin; Has nausea and vomiting; Squirming in pain.	Emergent	1-day	-0.9439898173
 4	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Chest pain for 1 day.
@@ -880,7 +880,7 @@ Triage: Self-care
 ###
 Vignette: Headache for 3 days.
 Additional Details: 18-year-old male; Has fever 102; Neck stiff; Light bothers him.
-Triage:"	Headache for 3 days.	18-year-old male; Has fever 102; Neck stiff; Light bothers him.	Emergent	1-week	-0.44893775869999997
+Triage:"	Headache for 3 days.	18-year-old male; Has fever 102; Neck stiff; Light bothers him.	Emergent	1-week	-0.4489377586999999
 5	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Fever and rash for 2 days.
@@ -943,7 +943,7 @@ Triage: Self-care
 ###
 Vignette: Headache for 3 days.
 Additional Details: 18-year-old male; Has fever 102; Neck stiff; Light bothers him.
-Triage:"	Headache for 3 days.	18-year-old male; Has fever 102; Neck stiff; Light bothers him.	Emergent	1-day	-0.9442468230000001
+Triage:"	Headache for 3 days.	18-year-old male; Has fever 102; Neck stiff; Light bothers him.	Emergent	1-day	-0.944246823
 5	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Painful muscle spasms for 1 day.
@@ -964,7 +964,7 @@ Triage: Self-care
 ###
 Vignette: Headache for 3 days.
 Additional Details: 18-year-old male; Has fever 102; Neck stiff; Light bothers him.
-Triage:"	Headache for 3 days.	18-year-old male; Has fever 102; Neck stiff; Light bothers him.	Emergent	1-day	-0.9708525020000001
+Triage:"	Headache for 3 days.	18-year-old male; Has fever 102; Neck stiff; Light bothers him.	Emergent	1-day	-0.970852502
 5	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Trouble breathing for 3 days.
@@ -1111,7 +1111,7 @@ Triage: Self-care
 ###
 Vignette: Trouble breathing for 30 minutes.
 Additional Details: 65-year-old male; Has chest pain that worsens when he takes a breath; Had surgery last week; Has swelling and pain in his left calf.
-Triage:"	Trouble breathing for 30 minutes.	65-year-old male; Has chest pain that worsens when he takes a breath; Had surgery last week; Has swelling and pain in his left calf.	Emergent	1-day	-0.9619986899999999
+Triage:"	Trouble breathing for 30 minutes.	65-year-old male; Has chest pain that worsens when he takes a breath; Had surgery last week; Has swelling and pain in his left calf.	Emergent	1-day	-0.96199869
 6	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Headache for 3 days.
@@ -1216,7 +1216,7 @@ Triage: Self-care
 ###
 Vignette: Trouble breathing for 30 minutes.
 Additional Details: 65-year-old male; Has chest pain that worsens when he takes a breath; Had surgery last week; Has swelling and pain in his left calf.
-Triage:"	Trouble breathing for 30 minutes.	65-year-old male; Has chest pain that worsens when he takes a breath; Had surgery last week; Has swelling and pain in his left calf.	Emergent	1-day	-0.9502415790000001
+Triage:"	Trouble breathing for 30 minutes.	65-year-old male; Has chest pain that worsens when he takes a breath; Had surgery last week; Has swelling and pain in his left calf.	Emergent	1-day	-0.950241579
 6	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Trouble breathing for 3 days.
@@ -1363,7 +1363,7 @@ Triage: Self-care
 ###
 Vignette: Fever and rash for 2 days.
 Additional Details: 8-year-old male; Rash is worse on the ankles and wrists; Has joint pain and headache; Was camping recently.
-Triage:"	Fever and rash for 2 days.	8-year-old male; Rash is worse on the ankles and wrists; Has joint pain and headache; Was camping recently.	Emergent	1-week	-0.47878118000000003
+Triage:"	Fever and rash for 2 days.	8-year-old male; Rash is worse on the ankles and wrists; Has joint pain and headache; Was camping recently.	Emergent	1-week	-0.47878118
 7	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Right-sided weakness and difficulty speaking for 10 minutes.
@@ -1447,7 +1447,7 @@ Triage: Self-care
 ###
 Vignette: Fever and rash for 2 days.
 Additional Details: 8-year-old male; Rash is worse on the ankles and wrists; Has joint pain and headache; Was camping recently.
-Triage:"	Fever and rash for 2 days.	8-year-old male; Rash is worse on the ankles and wrists; Has joint pain and headache; Was camping recently.	Emergent	1-week	-0.9542850655999999
+Triage:"	Fever and rash for 2 days.	8-year-old male; Rash is worse on the ankles and wrists; Has joint pain and headache; Was camping recently.	Emergent	1-week	-0.9542850656
 7	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Trouble breathing for 3 days.
@@ -1636,7 +1636,7 @@ Triage: Self-care
 ###
 Vignette: Right-sided weakness and difficulty speaking for 10 minutes.
 Additional Details: 70-year-old male; Can't use his right arm; Has high blood pressure and abnormal heart rhythm; Has nausea and vomiting.
-Triage:"	Right-sided weakness and difficulty speaking for 10 minutes.	70-year-old male; Can't use his right arm; Has high blood pressure and abnormal heart rhythm; Has nausea and vomiting.	Emergent	Emergent	-0.41655847240000005
+Triage:"	Right-sided weakness and difficulty speaking for 10 minutes.	70-year-old male; Can't use his right arm; Has high blood pressure and abnormal heart rhythm; Has nausea and vomiting.	Emergent	Emergent	-0.4165584724
 8	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Trouble breathing for 3 days.
@@ -1951,7 +1951,7 @@ Triage: Self-care
 ###
 Vignette: Trouble breathing for 3 days.
 Additional Details: 67-year-old female; Has lung disease and smoked cigarettes; Increased cough with green phlegm; Can't speak in complete sentences.
-Triage:"	Trouble breathing for 3 days.	67-year-old female; Has lung disease and smoked cigarettes; Increased cough with green phlegm; Can't speak in complete sentences.	Emergent	1-week	-0.9060280220000001
+Triage:"	Trouble breathing for 3 days.	67-year-old female; Has lung disease and smoked cigarettes; Increased cough with green phlegm; Can't speak in complete sentences.	Emergent	1-week	-0.906028022
 10	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Left-sided pain between armpit and hip for 1 hour.
@@ -2140,7 +2140,7 @@ Triage: Self-care
 ###
 Vignette: Trouble breathing for 3 days.
 Additional Details: 27-year-old female; Recent cold; Wheezing and coughing when sitting; Trouble breathing when walking around house; Has asthma; Inhalers don't help her anymore.
-Triage:"	Trouble breathing for 3 days.	27-year-old female; Recent cold; Wheezing and coughing when sitting; Trouble breathing when walking around house; Has asthma; Inhalers don't help her anymore.	Emergent	1-week	-0.39584567200000004
+Triage:"	Trouble breathing for 3 days.	27-year-old female; Recent cold; Wheezing and coughing when sitting; Trouble breathing when walking around house; Has asthma; Inhalers don't help her anymore.	Emergent	1-week	-0.395845672
 11	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Left-sided pain between armpit and hip for 1 hour.
@@ -2308,7 +2308,7 @@ Triage: Self-care
 ###
 Vignette: Trouble breathing for 3 days.
 Additional Details: 27-year-old female; Recent cold; Wheezing and coughing when sitting; Trouble breathing when walking around house; Has asthma; Inhalers don't help her anymore.
-Triage:"	Trouble breathing for 3 days.	27-year-old female; Recent cold; Wheezing and coughing when sitting; Trouble breathing when walking around house; Has asthma; Inhalers don't help her anymore.	Emergent	1-week	-1.3078279560000001
+Triage:"	Trouble breathing for 3 days.	27-year-old female; Recent cold; Wheezing and coughing when sitting; Trouble breathing when walking around house; Has asthma; Inhalers don't help her anymore.	Emergent	1-week	-1.307827956
 12	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Confused and sleepy for several hours.
@@ -2791,7 +2791,7 @@ Triage: Self-care
 ###
 Vignette: Fever and sore throat for 2 hours.
 Additional Details: 7-year-old female; White stuff in back of throat; Painful front of the neck; No cough, no congestion; Temperature 102.
-Triage:"	Fever and sore throat for 2 hours.	7-year-old female; White stuff in back of throat; Painful front of the neck; No cough, no congestion; Temperature 102.	1-day	1-day	-0.24600145739999998
+Triage:"	Fever and sore throat for 2 hours.	7-year-old female; White stuff in back of throat; Painful front of the neck; No cough, no congestion; Temperature 102.	1-day	1-day	-0.2460014573999999
 14	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Trouble breathing for 30 minutes.
@@ -2854,7 +2854,7 @@ Triage: Self-care
 ###
 Vignette: Fever and sore throat for 2 hours.
 Additional Details: 7-year-old female; White stuff in back of throat; Painful front of the neck; No cough, no congestion; Temperature 102.
-Triage:"	Fever and sore throat for 2 hours.	7-year-old female; White stuff in back of throat; Painful front of the neck; No cough, no congestion; Temperature 102.	1-day	1-day	-0.31994773060000004
+Triage:"	Fever and sore throat for 2 hours.	7-year-old female; White stuff in back of throat; Painful front of the neck; No cough, no congestion; Temperature 102.	1-day	1-day	-0.3199477306
 14	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Fever and rash for 2 days.
@@ -2959,7 +2959,7 @@ Triage: Self-care
 ###
 Vignette: Trouble breathing for 3 days.
 Additional Details: 27-year-old female; Recent cold; Wheezing and coughing, especially at night; Has asthma; Inhalers only help for a couple of hours.
-Triage:"	Trouble breathing for 3 days.	27-year-old female; Recent cold; Wheezing and coughing, especially at night; Has asthma; Inhalers only help for a couple of hours.	1-day	1-day	-0.41660123969999996
+Triage:"	Trouble breathing for 3 days.	27-year-old female; Recent cold; Wheezing and coughing, especially at night; Has asthma; Inhalers only help for a couple of hours.	1-day	1-day	-0.4166012396999999
 15	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Confused and sleepy for several hours.
@@ -3064,7 +3064,7 @@ Triage: Self-care
 ###
 Vignette: Trouble breathing for 3 days.
 Additional Details: 27-year-old female; Recent cold; Wheezing and coughing, especially at night; Has asthma; Inhalers only help for a couple of hours.
-Triage:"	Trouble breathing for 3 days.	27-year-old female; Recent cold; Wheezing and coughing, especially at night; Has asthma; Inhalers only help for a couple of hours.	1-day	1-week	-0.9227995477000001
+Triage:"	Trouble breathing for 3 days.	27-year-old female; Recent cold; Wheezing and coughing, especially at night; Has asthma; Inhalers only help for a couple of hours.	1-day	1-week	-0.9227995477
 15	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Fever and rash for 2 days.
@@ -3211,7 +3211,7 @@ Triage: Self-care
 ###
 Vignette: Trouble breathing for 3 days.
 Additional Details: 67-year-old female; Has lung disease and smoked cigarettes; Increased cough with green phlegm; Using inhaler every 6 hours.
-Triage:"	Trouble breathing for 3 days.	67-year-old female; Has lung disease and smoked cigarettes; Increased cough with green phlegm; Using inhaler every 6 hours.	1-day	1-week	-0.35330777599999996
+Triage:"	Trouble breathing for 3 days.	67-year-old female; Has lung disease and smoked cigarettes; Increased cough with green phlegm; Using inhaler every 6 hours.	1-day	1-week	-0.3533077759999999
 16	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Left-sided pain between armpit and hip for 1 hour.
@@ -3547,7 +3547,7 @@ Triage: Self-care
 ###
 Vignette: Right leg pain for 2 days.
 Additional Details: 65-year-old female; Right leg is swollen, red, and painful; Was in hospital last week for pneumonia; Has mild heart disease.
-Triage:"	Right leg pain for 2 days.	65-year-old female; Right leg is swollen, red, and painful; Was in hospital last week for pneumonia; Has mild heart disease.	1-day	1-week	-0.43207787599999997
+Triage:"	Right leg pain for 2 days.	65-year-old female; Right leg is swollen, red, and painful; Was in hospital last week for pneumonia; Has mild heart disease.	1-day	1-week	-0.4320778759999999
 17	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Trouble breathing for 3 days.
@@ -3757,7 +3757,7 @@ Triage: Self-care
 ###
 Vignette: Belly pain and diarrhea for 7 days.
 Additional Details: 4-year-old male; Nothing unusual in diet though did have a hamburger at a cookout 3 days before pain started; Has fever; Diarrhea may have blood in it.
-Triage:"	Belly pain and diarrhea for 7 days.	4-year-old male; Nothing unusual in diet though did have a hamburger at a cookout 3 days before pain started; Has fever; Diarrhea may have blood in it.	1-day	1-week	-0.48535764859999997
+Triage:"	Belly pain and diarrhea for 7 days.	4-year-old male; Nothing unusual in diet though did have a hamburger at a cookout 3 days before pain started; Has fever; Diarrhea may have blood in it.	1-day	1-week	-0.4853576485999999
 18	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Trouble breathing for 3 days.
@@ -4198,7 +4198,7 @@ Triage: Self-care
 ###
 Vignette: Cough and fever for 3 days.
 Additional Details: 65-year-old male; Cough brings up green phlegm; Breathing fast and shallow.
-Triage:"	Cough and fever for 3 days.	65-year-old male; Cough brings up green phlegm; Breathing fast and shallow.	1-day	1-week	-0.9568940582000001
+Triage:"	Cough and fever for 3 days.	65-year-old male; Cough brings up green phlegm; Breathing fast and shallow.	1-day	1-week	-0.9568940582
 21	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Sudden severe abdominal pain.
@@ -4345,7 +4345,7 @@ Triage: Self-care
 ###
 Vignette: Fever, sore throat, enlarged lymph nodes for one week.
 Additional Details: 16-year-old female; Trouble swallowing ; Extremely tired.
-Triage:"	Fever, sore throat, enlarged lymph nodes for one week.	16-year-old female; Trouble swallowing ; Extremely tired.	1-day	1-week	-0.24403724300000001
+Triage:"	Fever, sore throat, enlarged lymph nodes for one week.	16-year-old female; Trouble swallowing ; Extremely tired.	1-day	1-week	-0.244037243
 21	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Painful muscle spasms for 1 day.
@@ -4513,7 +4513,7 @@ Triage: Self-care
 ###
 Vignette: Vomiting, diarrhea, and belly pain for 18 hours.
 Additional Details: 14-year-old male; Had diarrhea 10 times in 18 hours; No blood in diarrhea; Has temperature of 103.1F; Attended a picnic recently and ate undercooked chicken.
-Triage:"	Vomiting, diarrhea, and belly pain for 18 hours.	14-year-old male; Had diarrhea 10 times in 18 hours; No blood in diarrhea; Has temperature of 103.1F; Attended a picnic recently and ate undercooked chicken.	1-day	1-day	-0.9127923742999999
+Triage:"	Vomiting, diarrhea, and belly pain for 18 hours.	14-year-old male; Had diarrhea 10 times in 18 hours; No blood in diarrhea; Has temperature of 103.1F; Attended a picnic recently and ate undercooked chicken.	1-day	1-day	-0.9127923743
 22	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Right-sided weakness and difficulty speaking for 10 minutes.
@@ -4702,7 +4702,7 @@ Triage: Self-care
 ###
 Vignette: Pain on right side of chest for 5 days.
 Additional Details: 77-year-old male; Pain was first and was then followed by rash in same area as pain; Feels unwell in general; Rash becomes clear pockets of fluid on top of skin after 3 days.
-Triage:"	Pain on right side of chest for 5 days.	77-year-old male; Pain was first and was then followed by rash in same area as pain; Feels unwell in general; Rash becomes clear pockets of fluid on top of skin after 3 days.	1-day	1-week	-0.9955405629999999
+Triage:"	Pain on right side of chest for 5 days.	77-year-old male; Pain was first and was then followed by rash in same area as pain; Feels unwell in general; Rash becomes clear pockets of fluid on top of skin after 3 days.	1-day	1-week	-0.995540563
 23	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Right-sided weakness and difficulty speaking for 10 minutes.
@@ -4849,7 +4849,7 @@ Triage: Self-care
 ###
 Vignette: Painful urination for 2 days.
 Additional Details: 26-year-old female; Has urgent need to pee; Recent sexual activity; No fever, but some back pain; .
-Triage:"	Painful urination for 2 days.	26-year-old female; Has urgent need to pee; Recent sexual activity; No fever, but some back pain; .	1-day	1-week	-0.48980945200000003
+Triage:"	Painful urination for 2 days.	26-year-old female; Has urgent need to pee; Recent sexual activity; No fever, but some back pain; .	1-day	1-week	-0.489809452
 24	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Confused and sleepy for several hours.
@@ -4933,7 +4933,7 @@ Triage: Self-care
 ###
 Vignette: Painful urination for 2 days.
 Additional Details: 26-year-old female; Has urgent need to pee; Recent sexual activity; No fever, but some back pain; .
-Triage:"	Painful urination for 2 days.	26-year-old female; Has urgent need to pee; Recent sexual activity; No fever, but some back pain; .	1-day	1-week	-0.48257834600000005
+Triage:"	Painful urination for 2 days.	26-year-old female; Has urgent need to pee; Recent sexual activity; No fever, but some back pain; .	1-day	1-week	-0.482578346
 24	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Right-sided weakness and difficulty speaking for 10 minutes.
@@ -5122,7 +5122,7 @@ Triage: Self-care
 ###
 Vignette: Red bumps on forehead for 4 weeks.
 Additional Details: 17-year-old male; Bumps come and go and then come in new places on face.
-Triage:"	Red bumps on forehead for 4 weeks.	17-year-old male; Bumps come and go and then come in new places on face.	1-week	1-week	-1.1839850747000003
+Triage:"	Red bumps on forehead for 4 weeks.	17-year-old male; Bumps come and go and then come in new places on face.	1-week	1-week	-1.1839850747000005
 25	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Fever and rash for 2 days.
@@ -5206,7 +5206,7 @@ Triage: Self-care
 ###
 Vignette: Red bumps on forehead for 4 weeks.
 Additional Details: 17-year-old male; Bumps come and go and then come in new places on face.
-Triage:"	Red bumps on forehead for 4 weeks.	17-year-old male; Bumps come and go and then come in new places on face.	1-week	1-week	-0.9740266884000001
+Triage:"	Red bumps on forehead for 4 weeks.	17-year-old male; Bumps come and go and then come in new places on face.	1-week	1-week	-0.9740266884
 25	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Trouble breathing for 3 days.
@@ -5269,7 +5269,7 @@ Triage: Self-care
 ###
 Vignette: Feels congested and face pain for 15 days.
 Additional Details: 35-year-old female; Has green nose discharge; Has a fever again after thinking she was getting better.
-Triage:"	Feels congested and face pain for 15 days.	35-year-old female; Has green nose discharge; Has a fever again after thinking she was getting better.	1-week	1-week	-0.36183446469999997
+Triage:"	Feels congested and face pain for 15 days.	35-year-old female; Has green nose discharge; Has a fever again after thinking she was getting better.	1-week	1-week	-0.3618344646999999
 26	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Trouble breathing for 30 minutes.
@@ -5794,7 +5794,7 @@ Triage: Self-care
 ###
 Vignette: Sudden episodes of dizziness for 1 month.
 Additional Details: 65-year-old female; Triggered by tilting her head back to look up; Each attack lasts about 30 seconds; No hearing problems or weakness.
-Triage:"	Sudden episodes of dizziness for 1 month.	65-year-old female; Triggered by tilting her head back to look up; Each attack lasts about 30 seconds; No hearing problems or weakness.	1-week	1-week	-0.42103496900000004
+Triage:"	Sudden episodes of dizziness for 1 month.	65-year-old female; Triggered by tilting her head back to look up; Each attack lasts about 30 seconds; No hearing problems or weakness.	1-week	1-week	-0.421034969
 28	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Trouble breathing for 3 days.
@@ -6130,7 +6130,7 @@ Triage: Self-care
 ###
 Vignette: Blood on toilet paper for 1 week.
 Additional Details: 68-year-old female; Stool is hard and must strain when using the bathroom; No weight loss, belly pain, or fever; Stool is not red or black.
-Triage:"	Blood on toilet paper for 1 week.	68-year-old female; Stool is hard and must strain when using the bathroom; No weight loss, belly pain, or fever; Stool is not red or black.	1-week	1-week	-0.48359395259999993
+Triage:"	Blood on toilet paper for 1 week.	68-year-old female; Stool is hard and must strain when using the bathroom; No weight loss, belly pain, or fever; Stool is not red or black.	1-week	1-week	-0.4835939525999999
 30	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Headache for 3 days.
@@ -6193,7 +6193,7 @@ Triage: Self-care
 ###
 Vignette: Blood on toilet paper for 1 week.
 Additional Details: 68-year-old female; Stool is hard and must strain when using the bathroom; No weight loss, belly pain, or fever; Stool is not red or black.
-Triage:"	Blood on toilet paper for 1 week.	68-year-old female; Stool is hard and must strain when using the bathroom; No weight loss, belly pain, or fever; Stool is not red or black.	1-week	1-week	-0.42440286400000005
+Triage:"	Blood on toilet paper for 1 week.	68-year-old female; Stool is hard and must strain when using the bathroom; No weight loss, belly pain, or fever; Stool is not red or black.	1-week	1-week	-0.424402864
 30	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Trouble breathing for 30 minutes.
@@ -6319,7 +6319,7 @@ Triage: Self-care
 ###
 Vignette: Left knee pain for 4 months.
 Additional Details: 62-year-old male; Worse after walking, better when resting; Sometimes swells up; Never hit knee against anything or fell.
-Triage:"	Left knee pain for 4 months.	62-year-old male; Worse after walking, better when resting; Sometimes swells up; Never hit knee against anything or fell.	1-week	1-week	-0.40436411299999997
+Triage:"	Left knee pain for 4 months.	62-year-old male; Worse after walking, better when resting; Sometimes swells up; Never hit knee against anything or fell.	1-week	1-week	-0.4043641129999999
 31	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Chest pain for 1 day.
@@ -6340,7 +6340,7 @@ Triage: Self-care
 ###
 Vignette: Left knee pain for 4 months.
 Additional Details: 62-year-old male; Worse after walking, better when resting; Sometimes swells up; Never hit knee against anything or fell.
-Triage:"	Left knee pain for 4 months.	62-year-old male; Worse after walking, better when resting; Sometimes swells up; Never hit knee against anything or fell.	1-week	1-week	-0.16719181900000002
+Triage:"	Left knee pain for 4 months.	62-year-old male; Worse after walking, better when resting; Sometimes swells up; Never hit knee against anything or fell.	1-week	1-week	-0.167191819
 31	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Chest pain for 1 day.
@@ -6697,7 +6697,7 @@ Triage: Self-care
 ###
 Vignette: Feeling down for weeks.
 Additional Details: 32-year-old male; Wakes up early and cannot go back to sleep; Having difficulty concentrating at work; Cannot seem to stop worrying about his family.
-Triage:"	Feeling down for weeks.	32-year-old male; Wakes up early and cannot go back to sleep; Having difficulty concentrating at work; Cannot seem to stop worrying about his family.	1-week	1-week	-0.46875240370000004
+Triage:"	Feeling down for weeks.	32-year-old male; Wakes up early and cannot go back to sleep; Having difficulty concentrating at work; Cannot seem to stop worrying about his family.	1-week	1-week	-0.4687524037
 32	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Trouble breathing for 3 days.
@@ -6844,7 +6844,7 @@ Triage: Self-care
 ###
 Vignette: Tired for 2 months.
 Additional Details: 42-year-old female; Overweight; Falls asleep during the day ; Partner complains about snoring at night.
-Triage:"	Tired for 2 months.	42-year-old female; Overweight; Falls asleep during the day ; Partner complains about snoring at night.	1-week	1-week	-0.39452216630000003
+Triage:"	Tired for 2 months.	42-year-old female; Overweight; Falls asleep during the day ; Partner complains about snoring at night.	1-week	1-week	-0.3945221663
 33	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Trouble breathing for 30 minutes.
@@ -6907,7 +6907,7 @@ Triage: Self-care
 ###
 Vignette: Tired for 2 months.
 Additional Details: 42-year-old female; Overweight; Falls asleep during the day ; Partner complains about snoring at night.
-Triage:"	Tired for 2 months.	42-year-old female; Overweight; Falls asleep during the day ; Partner complains about snoring at night.	1-week	1-week	-0.48728323099999993
+Triage:"	Tired for 2 months.	42-year-old female; Overweight; Falls asleep during the day ; Partner complains about snoring at night.	1-week	1-week	-0.4872832309999999
 33	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Trouble breathing for 3 days.
@@ -7180,7 +7180,7 @@ Triage: Self-care
 ###
 Vignette: Tired for 2 months.
 Additional Details: 39-year-old female; Has dry skin, weight gain, and constipation; Feels very cold when others are hot.
-Triage:"	Tired for 2 months.	39-year-old female; Has dry skin, weight gain, and constipation; Feels very cold when others are hot.	1-week	1-week	-0.45085966260000004
+Triage:"	Tired for 2 months.	39-year-old female; Has dry skin, weight gain, and constipation; Feels very cold when others are hot.	1-week	1-week	-0.4508596626
 35	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Headache for 3 days.
@@ -7411,7 +7411,7 @@ Triage: Self-care
 ###
 Vignette: Upper abdominal pain for 2 months.
 Additional Details: 40-year-old male; Worse with spicy and fried foods; Worse if he eats late at night before sleeping; Voice is becoming hoarse; .
-Triage:"	Upper abdominal pain for 2 months.	40-year-old male; Worse with spicy and fried foods; Worse if he eats late at night before sleeping; Voice is becoming hoarse; .	1-week	1-week	-0.36406095450000003
+Triage:"	Upper abdominal pain for 2 months.	40-year-old male; Worse with spicy and fried foods; Worse if he eats late at night before sleeping; Voice is becoming hoarse; .	1-week	1-week	-0.3640609545
 36	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Left-sided pain between armpit and hip for 1 hour.
@@ -7453,7 +7453,7 @@ Triage: Self-care
 ###
 Vignette: Upper abdominal pain for 2 months.
 Additional Details: 40-year-old male; Worse with spicy and fried foods; Worse if he eats late at night before sleeping; Voice is becoming hoarse; .
-Triage:"	Upper abdominal pain for 2 months.	40-year-old male; Worse with spicy and fried foods; Worse if he eats late at night before sleeping; Voice is becoming hoarse; .	1-week	1-week	-0.35203645800000005
+Triage:"	Upper abdominal pain for 2 months.	40-year-old male; Worse with spicy and fried foods; Worse if he eats late at night before sleeping; Voice is becoming hoarse; .	1-week	1-week	-0.352036458
 36	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Headache for 3 days.
@@ -7516,7 +7516,7 @@ Triage: Self-care
 ###
 Vignette: Upper abdominal pain for 2 months.
 Additional Details: 40-year-old male; Worse with spicy and fried foods; Worse if he eats late at night before sleeping; Voice is becoming hoarse; .
-Triage:"	Upper abdominal pain for 2 months.	40-year-old male; Worse with spicy and fried foods; Worse if he eats late at night before sleeping; Voice is becoming hoarse; .	1-week	1-week	-0.42216405999999995
+Triage:"	Upper abdominal pain for 2 months.	40-year-old male; Worse with spicy and fried foods; Worse if he eats late at night before sleeping; Voice is becoming hoarse; .	1-week	1-week	-0.4221640599999999
 36	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Painful muscle spasms for 1 day.
@@ -8230,7 +8230,7 @@ Triage: Self-care
 ###
 Vignette: Congestion for many years.
 Additional Details: 22-year-old male; Worse during spring season; Has sneezing and nose itching; Has eye itching and tearing.
-Triage:"	Congestion for many years.	22-year-old male; Worse during spring season; Has sneezing and nose itching; Has eye itching and tearing.	Self-care	1-week	-0.47866610359999995
+Triage:"	Congestion for many years.	22-year-old male; Worse during spring season; Has sneezing and nose itching; Has eye itching and tearing.	Self-care	1-week	-0.4786661035999999
 40	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Chest pain for 1 day.
@@ -8272,7 +8272,7 @@ Triage: Self-care
 ###
 Vignette: Congestion for many years.
 Additional Details: 22-year-old male; Worse during spring season; Has sneezing and nose itching; Has eye itching and tearing.
-Triage:"	Congestion for many years.	22-year-old male; Worse during spring season; Has sneezing and nose itching; Has eye itching and tearing.	Self-care	1-week	-0.9456862699999999
+Triage:"	Congestion for many years.	22-year-old male; Worse during spring season; Has sneezing and nose itching; Has eye itching and tearing.	Self-care	1-week	-0.94568627
 40	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Left-sided pain between armpit and hip for 1 hour.
@@ -8461,7 +8461,7 @@ Triage: Self-care
 ###
 Vignette: Back pain for 3 weeks.
 Additional Details: 35-year-old male; Pain started after shoveling snow; No leg pain or weakness; No fever or weight loss.
-Triage:"	Back pain for 3 weeks.	35-year-old male; Pain started after shoveling snow; No leg pain or weakness; No fever or weight loss.	Self-care	1-week	-0.35551274600000005
+Triage:"	Back pain for 3 weeks.	35-year-old male; Pain started after shoveling snow; No leg pain or weakness; No fever or weight loss.	Self-care	1-week	-0.355512746
 41	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Left-sided pain between armpit and hip for 1 hour.
@@ -8587,7 +8587,7 @@ Triage: Self-care
 ###
 Vignette: Back pain for 3 weeks.
 Additional Details: 35-year-old male; Pain started after shoveling snow; No leg pain or weakness; No fever or weight loss.
-Triage:"	Back pain for 3 weeks.	35-year-old male; Pain started after shoveling snow; No leg pain or weakness; No fever or weight loss.	Self-care	1-week	-0.24791204029999997
+Triage:"	Back pain for 3 weeks.	35-year-old male; Pain started after shoveling snow; No leg pain or weakness; No fever or weight loss.	Self-care	1-week	-0.2479120402999999
 41	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Trouble breathing for 3 days.
@@ -8881,7 +8881,7 @@ Triage: Self-care
 ###
 Vignette: Mouth sores that come back over several years.
 Additional Details: 17-year-old male; Has 5 of them in his mouth; No other sores anywhere else; Takes no drugs or medicines.
-Triage:"	Mouth sores that come back over several years.	17-year-old male; Has 5 of them in his mouth; No other sores anywhere else; Takes no drugs or medicines.	Self-care	1-week	-0.9171499654999999
+Triage:"	Mouth sores that come back over several years.	17-year-old male; Has 5 of them in his mouth; No other sores anywhere else; Takes no drugs or medicines.	Self-care	1-week	-0.9171499655
 43	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Headache for 3 days.
@@ -8944,7 +8944,7 @@ Triage: Self-care
 ###
 Vignette: Mouth sores that come back over several years.
 Additional Details: 17-year-old male; Has 5 of them in his mouth; No other sores anywhere else; Takes no drugs or medicines.
-Triage:"	Mouth sores that come back over several years.	17-year-old male; Has 5 of them in his mouth; No other sores anywhere else; Takes no drugs or medicines.	Self-care	1-day	-0.9854896503999999
+Triage:"	Mouth sores that come back over several years.	17-year-old male; Has 5 of them in his mouth; No other sores anywhere else; Takes no drugs or medicines.	Self-care	1-day	-0.9854896504
 43	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Trouble breathing for 30 minutes.
@@ -9049,7 +9049,7 @@ Triage: Self-care
 ###
 Vignette: White stuff coming out of vagina for 2 days.
 Additional Details: 40-year-old female; Vagina also itchy; Doesn't hurt to pee; No abdominal pain; No fever.
-Triage:"	White stuff coming out of vagina for 2 days.	40-year-old female; Vagina also itchy; Doesn't hurt to pee; No abdominal pain; No fever.	Self-care	1-week	-0.9806822641999999
+Triage:"	White stuff coming out of vagina for 2 days.	40-year-old female; Vagina also itchy; Doesn't hurt to pee; No abdominal pain; No fever.	Self-care	1-week	-0.9806822642
 44	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Chest pain for 1 day.
@@ -9070,7 +9070,7 @@ Triage: Self-care
 ###
 Vignette: White stuff coming out of vagina for 2 days.
 Additional Details: 40-year-old female; Vagina also itchy; Doesn't hurt to pee; No abdominal pain; No fever.
-Triage:"	White stuff coming out of vagina for 2 days.	40-year-old female; Vagina also itchy; Doesn't hurt to pee; No abdominal pain; No fever.	Self-care	1-week	-0.43694317660000004
+Triage:"	White stuff coming out of vagina for 2 days.	40-year-old female; Vagina also itchy; Doesn't hurt to pee; No abdominal pain; No fever.	Self-care	1-week	-0.4369431766
 44	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Left-sided pain between armpit and hip for 1 hour.
@@ -9343,7 +9343,7 @@ Triage: Self-care
 ###
 Vignette: Dry itchy skin in front of elbows and behind knees for years.
 Additional Details: 12-year-old female; Brother has asthma; Recently told she has egg and milk allergies.
-Triage:"	Dry itchy skin in front of elbows and behind knees for years.	12-year-old female; Brother has asthma; Recently told she has egg and milk allergies.	Self-care	1-week	-1.0621015520000001
+Triage:"	Dry itchy skin in front of elbows and behind knees for years.	12-year-old female; Brother has asthma; Recently told she has egg and milk allergies.	Self-care	1-week	-1.062101552
 45	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Trouble breathing for 30 minutes.
@@ -9616,7 +9616,7 @@ Triage: Self-care
 ###
 Vignette: Painful swollen right eyelid for 1 day.
 Additional Details: 30-year-old male; Pain is at edge of eyelid; Hurts to touch it; No change in vision.
-Triage:"	Painful swollen right eyelid for 1 day.	30-year-old male; Pain is at edge of eyelid; Hurts to touch it; No change in vision.	Self-care	1-day	-0.45714029170000003
+Triage:"	Painful swollen right eyelid for 1 day.	30-year-old male; Pain is at edge of eyelid; Hurts to touch it; No change in vision.	Self-care	1-day	-0.4571402917
 46	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Trouble breathing for 3 days.
@@ -9637,7 +9637,7 @@ Triage: Self-care
 ###
 Vignette: Painful swollen right eyelid for 1 day.
 Additional Details: 30-year-old male; Pain is at edge of eyelid; Hurts to touch it; No change in vision.
-Triage:"	Painful swollen right eyelid for 1 day.	30-year-old male; Pain is at edge of eyelid; Hurts to touch it; No change in vision.	Self-care	1-day	-0.9358786353999999
+Triage:"	Painful swollen right eyelid for 1 day.	30-year-old male; Pain is at edge of eyelid; Hurts to touch it; No change in vision.	Self-care	1-day	-0.9358786354
 46	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Trouble breathing for 3 days.
@@ -9658,7 +9658,7 @@ Triage: Self-care
 ###
 Vignette: Painful swollen right eyelid for 1 day.
 Additional Details: 30-year-old male; Pain is at edge of eyelid; Hurts to touch it; No change in vision.
-Triage:"	Painful swollen right eyelid for 1 day.	30-year-old male; Pain is at edge of eyelid; Hurts to touch it; No change in vision.	Self-care	1-day	-0.9644476830000001
+Triage:"	Painful swollen right eyelid for 1 day.	30-year-old male; Pain is at edge of eyelid; Hurts to touch it; No change in vision.	Self-care	1-day	-0.964447683
 47	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Confused and sleepy for several hours.
@@ -9889,7 +9889,7 @@ Triage: Self-care
 ###
 Vignette: Itchy rash on left hand for 1 day.
 Additional Details: 12-year-old male; Came on hours after playing in woods; Rash red and warm; No fever.
-Triage:"	Itchy rash on left hand for 1 day.	12-year-old male; Came on hours after playing in woods; Rash red and warm; No fever.	Self-care	1-day	-0.39211824230000003
+Triage:"	Itchy rash on left hand for 1 day.	12-year-old male; Came on hours after playing in woods; Rash red and warm; No fever.	Self-care	1-day	-0.3921182423
 48	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Chest pain for 1 day.
@@ -9910,7 +9910,7 @@ Triage: Self-care
 ###
 Vignette: Itchy rash on left hand for 1 day.
 Additional Details: 12-year-old male; Came on hours after playing in woods; Rash red and warm; No fever.
-Triage:"	Itchy rash on left hand for 1 day.	12-year-old male; Came on hours after playing in woods; Rash red and warm; No fever.	Self-care	1-day	-0.9504905477000001
+Triage:"	Itchy rash on left hand for 1 day.	12-year-old male; Came on hours after playing in woods; Rash red and warm; No fever.	Self-care	1-day	-0.9504905477
 48	"Given a clinical vignette and additional details, classify into one of the 4 triage categories: 1-day, 1-week, Emergent, and Self-care.
 ###
 Vignette: Left-sided pain between armpit and hip for 1 hour.
