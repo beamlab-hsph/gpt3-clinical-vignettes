@@ -3,7 +3,7 @@
     "NPRIME": "representative-sample",
     "representative-sample-size": 10,
     "GPT-3-params": {
-        "engine": "davinci",
+        "engine": "davinci-instruct-beta",
         "temperature": 0, 
         "max_tokens": 20,
         "top_p": 1,
