@@ -1,6 +1,6 @@
 {
     "SEED": 2020,
-    "NPRIME": "representative-sample",
+    "NPRIME": 1,
     "representative-sample-size": 10,
     "GPT-3-params": {
         "engine": "davinci-instruct-beta",
