@@ -1,7 +1,7 @@
 from pathlib import Path
 
 # Open AI API Key
-OPENAI_API_KEY_PATH = Path('/n/home13/rtuwani/.secrets/openai.json')
+OPENAI_API_KEY_PATH = Path('~/openai_key.json')
 
 # Configuration file
 TRIAGE_CONFIG_FILE = Path('triage_prediction_config.json')
