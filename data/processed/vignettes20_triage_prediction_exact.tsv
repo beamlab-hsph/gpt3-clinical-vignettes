@@ -1,49 +1,49 @@
-Additional Details	Problem	Correct Triage	Correct	Predicted Triage	Pr(prediction)	Pr(correct prediction)
-12-year-old female; Brother has asthma; Recently told she has egg and milk allergies.	Dry itchy skin in front of elbows and behind knees for years.	Self-care	True	Self-care	0.6	0.6
-12-year-old female; Temperature 104 F (40 C); Has nausea, vomiting, and diarrhea.	Sudden severe abdominal pain.	Emergent	True	Emergent	1.0	1.0
-12-year-old male; Came on hours after playing in woods; Rash red and warm; No fever.	Itchy rash on left hand for 1 day.	Self-care	False	1-day	0.6	0.4
-14-year-old male; Had diarrhea 10 times in 18 hours; No blood in diarrhea; Has temperature of 103.1F; Attended a picnic recently and ate undercooked chicken.	Vomiting, diarrhea, and belly pain for 18 hours.	1-day	False	Emergent	0.9	0.1
-14-year-old male; Spread from right to left; Has watery eye discharge, but no pain; Has a stuffy nose.	Red, irritated eye for 3 days.	Self-care	False	1-day	1.0	0.0
-16-year-old female; Trouble swallowing ; Extremely tired.	Fever, sore throat, enlarged lymph nodes for one week.	1-day	False	1-week	0.9	0.0
-17-year-old male; Bumps come and go and then come in new places on face.	Red bumps on forehead for 4 weeks.	1-week	False	1-day	0.8	0.2
-17-year-old male; Has 5 of them in his mouth; No other sores anywhere else; Takes no drugs or medicines.	Mouth sores that come back over several years.	Self-care	True	Self-care	0.6	0.6
-18-year-old male; Has fever 102; Neck stiff; Light bothers him.	Headache for 3 days.	Emergent	False	1-week	0.5	0.1
-18-year-old male; Has fever of 103.1F; Recently returned from Africa.	Fever and chills for 5 days.	1-day	False	1-week	0.5	0.1
-22-year-old male; Worse during spring season; Has sneezing and nose itching; Has eye itching and tearing.	Congestion for many years.	Self-care	False	1-week	0.9	0.0
-26-year-old female; Has urgent need to pee; Recent sexual activity; No fever, but some back pain; .	Painful urination for 2 days.	1-day	False	1-week	0.6	0.4
-26-year-old male; Has a headache; Has a cough; No fever.	Sore throat for 2 days.	Self-care	False	1-day	0.8	0.0
-27-year-old female; Recent cold; Wheezing and coughing when sitting; Trouble breathing when walking around house; Has asthma; Inhalers don't help her anymore.	Trouble breathing for 3 days.	Emergent	False	1-week	0.6	0.4
-27-year-old female; Recent cold; Wheezing and coughing, especially at night; Has asthma; Inhalers only help for a couple of hours.	Trouble breathing for 3 days.	1-day	False	1-week	0.8	0.1
-30-year-old female; Came on very suddenly; Feels weak all over; Temperature 102.5 at first, but not now.	Fever, headache, and cough for 4 days.	Self-care	False	1-day	0.7	0.0
-30-year-old male; Pain is at edge of eyelid; Hurts to touch it; No change in vision.	Painful swollen right eyelid for 1 day.	Self-care	False	1-day	1.0	0.0
-32-year-old male; Wakes up early and cannot go back to sleep; Having difficulty concentrating at work; Cannot seem to stop worrying about his family.	Feeling down for weeks.	1-week	True	1-week	1.0	1.0
-34-year-old female; No fever; Had also had a sore throat and cough; No other medical problems.	Runny nose for 12 days.	Self-care	False	1-week	0.5	0.1
-35-year-old female; Has green nose discharge; Has a fever again after thinking she was getting better.	Feels congested and face pain for 15 days.	1-week	True	1-week	0.9	0.9
-35-year-old male; Pain started after shoveling snow; No leg pain or weakness; No fever or weight loss.	Back pain for 3 weeks.	Self-care	False	1-week	1.0	0.0
-39-year-old female; Has dry skin, weight gain, and constipation; Feels very cold when others are hot.	Tired for 2 months.	1-week	True	1-week	0.9	0.9
-4-year-old male; Nothing unusual in diet though did have a hamburger at a cookout 3 days before pain started; Has fever; Diarrhea may have blood in it.	Belly pain and diarrhea for 7 days.	1-day	False	Emergent	0.6	0.2
-40-year-old female; Vagina also itchy; Doesn't hurt to pee; No abdominal pain; No fever.	White stuff coming out of vagina for 2 days.	Self-care	False	1-day	0.5	0.1
-40-year-old male; Feels like a dull, gnawing ache; Wakes him up at night; Better when drinking milk and eating.	Upper abdominal pain for 2 months.	1-week	True	1-week	1.0	1.0
-40-year-old male; Worse with spicy and fried foods; Worse if he eats late at night before sleeping; Voice is becoming hoarse; .	Upper abdominal pain for 2 months.	1-week	True	1-week	1.0	1.0
-42-year-old female; Overweight; Falls asleep during the day ; Partner complains about snoring at night.	Tired for 2 months.	1-week	True	1-week	0.9	0.9
-45-year-old male; Severe pain; Pain starts on left side and travels to groin; Has nausea and vomiting; Squirming in pain.	Left-sided pain between armpit and hip for 1 hour.	Emergent	True	Emergent	1.0	1.0
-45-year-old man; Redness started quickly over a day; He thinks he has a high temperature, but he didn't check; Leg is swollen; Leg hurts to touch it, but he didn't cut it or bump it that he remembers.	Front of left leg is red and hurts for one day.	1-day	True	1-day	1.0	1.0
-48-year-old female; Can't answer where she is or what her name is (but she normally can); Takes Tylenol all the time for migraine, but recently took more.	Confused and sleepy for several hours.	Emergent	False	1-day	0.5	0.4
-52-year-old male; Feels tired all the time; Has blurry vision on and off.	Thirsty and peeing a lot for 4 weeks.	1-week	True	1-week	1.0	1.0
-62-year-old male; Worse after walking, better when resting; Sometimes swells up; Never hit knee against anything or fell.	Left knee pain for 4 months.	1-week	True	1-week	1.0	1.0
-64-year-old male; Pain is in middle of chest under breast bone; Sweating and having trouble breathing.	Chest pain for 1 day.	Emergent	True	Emergent	1.0	1.0
-65-year-old female; Right leg is swollen, red, and painful; Was in hospital last week for pneumonia; Has mild heart disease.	Right leg pain for 2 days.	1-day	False	1-week	0.8	0.2
-65-year-old female; Triggered by tilting her head back to look up; Each attack lasts about 30 seconds; No hearing problems or weakness.	Sudden episodes of dizziness for 1 month.	1-week	True	1-week	1.0	1.0
-65-year-old male; Cough brings up green phlegm; Breathing fast and shallow.	Cough and fever for 3 days.	1-day	False	1-day	0.4	0.4
-65-year-old male; Has chest pain that worsens when he takes a breath; Had surgery last week; Has swelling and pain in his left calf.	Trouble breathing for 30 minutes.	Emergent	True	Emergent	1.0	1.0
-65-year-old male; Having a hard time opening his mouth; Cut himself while gardening; He is restless and irritable.	Painful muscle spasms for 1 day.	Emergent	False	1-day	1.0	0.0
-67-year-old female; Has lung disease and smoked cigarettes; Increased cough with green phlegm; Can't speak in complete sentences.	Trouble breathing for 3 days.	Emergent	True	1-week	0.5	0.5
-67-year-old female; Has lung disease and smoked cigarettes; Increased cough with green phlegm; Using inhaler every 6 hours.	Trouble breathing for 3 days.	1-day	False	1-week	0.6	0.3
-68-year-old female; Stool is hard and must strain when using the bathroom; No weight loss, belly pain, or fever; Stool is not red or black.	Blood on toilet paper for 1 week.	1-week	True	1-week	0.9	0.9
-7-year-old female; White stuff in back of throat; Painful front of the neck; No cough, no congestion; Temperature 102.	Fever and sore throat for 2 hours.	1-day	True	1-day	1.0	1.0
-70-year-old male; Can't use his right arm; Has high blood pressure and abnormal heart rhythm; Has nausea and vomiting.	Right-sided weakness and difficulty speaking for 10 minutes.	Emergent	True	Emergent	1.0	1.0
-77-year-old male; Pain was first and was then followed by rash in same area as pain; Feels unwell in general; Rash becomes clear pockets of fluid on top of skin after 3 days.	Pain on right side of chest for 5 days.	1-day	False	1-week	0.4	0.2
-78-year-old female; Ate very salty foods recently; Gaining weight and legs are swollen; Had a heart attack several years ago; Trouble breathing when sitting on the couch; .	Trouble breathing for 3 days.	Emergent	False	1-week	0.5	0.4
-78-year-old female; Slowly gaining weight; Had a heart attack several years ago; Comfortable when sitting or walking slowly, but has trouble when walking up stairs.	Trouble breathing for 7 days.	1-week	True	1-week	0.7	0.7
-8-year-old male; Rash is worse on the ankles and wrists; Has joint pain and headache; Was camping recently.	Fever and rash for 2 days.	Emergent	False	1-week	0.6	0.0
-9-year-old male; Stopped crying after 15 minutes; Tongue looks normal; No wheezing or breathing problems.	Swollen and tender forehead at site of bee sting for 1 hour.	Self-care	False	1-day	1.0	0.0
+Additional Details	Problem	Correct Triage	Correct	Pr(correct prediction)	Predicted Triage
+12-year-old female; Brother has asthma; Recently told she has egg and milk allergies.	Dry itchy skin in front of elbows and behind knees for years.	Self-care	True	0.6	Self-care
+12-year-old female; Temperature 104 F (40 C); Has nausea, vomiting, and diarrhea.	Sudden severe abdominal pain.	Emergent	True	1.0	Emergent
+12-year-old male; Came on hours after playing in woods; Rash red and warm; No fever.	Itchy rash on left hand for 1 day.	Self-care	False	0.4	1-day
+14-year-old male; Had diarrhea 10 times in 18 hours; No blood in diarrhea; Has temperature of 103.1F; Attended a picnic recently and ate undercooked chicken.	Vomiting, diarrhea, and belly pain for 18 hours.	1-day	False	0.1	Emergent
+14-year-old male; Spread from right to left; Has watery eye discharge, but no pain; Has a stuffy nose.	Red, irritated eye for 3 days.	Self-care	False	0.0	1-day
+16-year-old female; Trouble swallowing ; Extremely tired.	Fever, sore throat, enlarged lymph nodes for one week.	1-day	False	0.0	1-week
+17-year-old male; Bumps come and go and then come in new places on face.	Red bumps on forehead for 4 weeks.	1-week	False	0.2	1-day
+17-year-old male; Has 5 of them in his mouth; No other sores anywhere else; Takes no drugs or medicines.	Mouth sores that come back over several years.	Self-care	True	0.6	Self-care
+18-year-old male; Has fever 102; Neck stiff; Light bothers him.	Headache for 3 days.	Emergent	False	0.1	1-week
+18-year-old male; Has fever of 103.1F; Recently returned from Africa.	Fever and chills for 5 days.	1-day	False	0.1	1-week
+22-year-old male; Worse during spring season; Has sneezing and nose itching; Has eye itching and tearing.	Congestion for many years.	Self-care	False	0.0	1-week
+26-year-old female; Has urgent need to pee; Recent sexual activity; No fever, but some back pain; .	Painful urination for 2 days.	1-day	False	0.4	1-week
+26-year-old male; Has a headache; Has a cough; No fever.	Sore throat for 2 days.	Self-care	False	0.0	1-day
+27-year-old female; Recent cold; Wheezing and coughing when sitting; Trouble breathing when walking around house; Has asthma; Inhalers don't help her anymore.	Trouble breathing for 3 days.	Emergent	False	0.4	1-week
+27-year-old female; Recent cold; Wheezing and coughing, especially at night; Has asthma; Inhalers only help for a couple of hours.	Trouble breathing for 3 days.	1-day	False	0.1	1-week
+30-year-old female; Came on very suddenly; Feels weak all over; Temperature 102.5 at first, but not now.	Fever, headache, and cough for 4 days.	Self-care	False	0.0	1-day
+30-year-old male; Pain is at edge of eyelid; Hurts to touch it; No change in vision.	Painful swollen right eyelid for 1 day.	Self-care	False	0.0	1-day
+32-year-old male; Wakes up early and cannot go back to sleep; Having difficulty concentrating at work; Cannot seem to stop worrying about his family.	Feeling down for weeks.	1-week	True	1.0	1-week
+34-year-old female; No fever; Had also had a sore throat and cough; No other medical problems.	Runny nose for 12 days.	Self-care	False	0.1	1-week
+35-year-old female; Has green nose discharge; Has a fever again after thinking she was getting better.	Feels congested and face pain for 15 days.	1-week	True	0.9	1-week
+35-year-old male; Pain started after shoveling snow; No leg pain or weakness; No fever or weight loss.	Back pain for 3 weeks.	Self-care	False	0.0	1-week
+39-year-old female; Has dry skin, weight gain, and constipation; Feels very cold when others are hot.	Tired for 2 months.	1-week	True	0.9	1-week
+4-year-old male; Nothing unusual in diet though did have a hamburger at a cookout 3 days before pain started; Has fever; Diarrhea may have blood in it.	Belly pain and diarrhea for 7 days.	1-day	False	0.2	Emergent
+40-year-old female; Vagina also itchy; Doesn't hurt to pee; No abdominal pain; No fever.	White stuff coming out of vagina for 2 days.	Self-care	False	0.1	1-day
+40-year-old male; Feels like a dull, gnawing ache; Wakes him up at night; Better when drinking milk and eating.	Upper abdominal pain for 2 months.	1-week	True	1.0	1-week
+40-year-old male; Worse with spicy and fried foods; Worse if he eats late at night before sleeping; Voice is becoming hoarse; .	Upper abdominal pain for 2 months.	1-week	True	1.0	1-week
+42-year-old female; Overweight; Falls asleep during the day ; Partner complains about snoring at night.	Tired for 2 months.	1-week	True	0.9	1-week
+45-year-old male; Severe pain; Pain starts on left side and travels to groin; Has nausea and vomiting; Squirming in pain.	Left-sided pain between armpit and hip for 1 hour.	Emergent	True	1.0	Emergent
+45-year-old man; Redness started quickly over a day; He thinks he has a high temperature, but he didn't check; Leg is swollen; Leg hurts to touch it, but he didn't cut it or bump it that he remembers.	Front of left leg is red and hurts for one day.	1-day	True	1.0	1-day
+48-year-old female; Can't answer where she is or what her name is (but she normally can); Takes Tylenol all the time for migraine, but recently took more.	Confused and sleepy for several hours.	Emergent	False	0.4	1-day
+52-year-old male; Feels tired all the time; Has blurry vision on and off.	Thirsty and peeing a lot for 4 weeks.	1-week	True	1.0	1-week
+62-year-old male; Worse after walking, better when resting; Sometimes swells up; Never hit knee against anything or fell.	Left knee pain for 4 months.	1-week	True	1.0	1-week
+64-year-old male; Pain is in middle of chest under breast bone; Sweating and having trouble breathing.	Chest pain for 1 day.	Emergent	True	1.0	Emergent
+65-year-old female; Right leg is swollen, red, and painful; Was in hospital last week for pneumonia; Has mild heart disease.	Right leg pain for 2 days.	1-day	False	0.2	1-week
+65-year-old female; Triggered by tilting her head back to look up; Each attack lasts about 30 seconds; No hearing problems or weakness.	Sudden episodes of dizziness for 1 month.	1-week	True	1.0	1-week
+65-year-old male; Cough brings up green phlegm; Breathing fast and shallow.	Cough and fever for 3 days.	1-day	False	0.4	1-day
+65-year-old male; Has chest pain that worsens when he takes a breath; Had surgery last week; Has swelling and pain in his left calf.	Trouble breathing for 30 minutes.	Emergent	True	1.0	Emergent
+65-year-old male; Having a hard time opening his mouth; Cut himself while gardening; He is restless and irritable.	Painful muscle spasms for 1 day.	Emergent	False	0.0	1-day
+67-year-old female; Has lung disease and smoked cigarettes; Increased cough with green phlegm; Can't speak in complete sentences.	Trouble breathing for 3 days.	Emergent	True	0.5	1-week|Emergent
+67-year-old female; Has lung disease and smoked cigarettes; Increased cough with green phlegm; Using inhaler every 6 hours.	Trouble breathing for 3 days.	1-day	False	0.3	1-week
+68-year-old female; Stool is hard and must strain when using the bathroom; No weight loss, belly pain, or fever; Stool is not red or black.	Blood on toilet paper for 1 week.	1-week	True	0.9	1-week
+7-year-old female; White stuff in back of throat; Painful front of the neck; No cough, no congestion; Temperature 102.	Fever and sore throat for 2 hours.	1-day	True	1.0	1-day
+70-year-old male; Can't use his right arm; Has high blood pressure and abnormal heart rhythm; Has nausea and vomiting.	Right-sided weakness and difficulty speaking for 10 minutes.	Emergent	True	1.0	Emergent
+77-year-old male; Pain was first and was then followed by rash in same area as pain; Feels unwell in general; Rash becomes clear pockets of fluid on top of skin after 3 days.	Pain on right side of chest for 5 days.	1-day	False	0.2	1-week|Emergent
+78-year-old female; Ate very salty foods recently; Gaining weight and legs are swollen; Had a heart attack several years ago; Trouble breathing when sitting on the couch; .	Trouble breathing for 3 days.	Emergent	False	0.4	1-week
+78-year-old female; Slowly gaining weight; Had a heart attack several years ago; Comfortable when sitting or walking slowly, but has trouble when walking up stairs.	Trouble breathing for 7 days.	1-week	True	0.7	1-week
+8-year-old male; Rash is worse on the ankles and wrists; Has joint pain and headache; Was camping recently.	Fever and rash for 2 days.	Emergent	False	0.0	1-week
+9-year-old male; Stopped crying after 15 minutes; Tongue looks normal; No wheezing or breathing problems.	Swollen and tender forehead at site of bee sting for 1 hour.	Self-care	False	0.0	1-day
